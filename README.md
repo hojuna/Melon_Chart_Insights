@@ -1,6 +1,6 @@
 # EDA 프로젝트: [Melon Chart(2000~2024) crawling data]
 
-## 1. 프로젝트 설명 (Project Description)
+## 1. 프로젝트 설명 
 이 프로젝트는 멜론의 년도별 차트 데이터를 곡 정보와 함께 크롤링하여 분석하는 프로젝트입니다. 
 
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 2. 크롤링 설명 (Dataset Description)
+## 2. 크롤링 설명 
 
 [크롤링 실행 코드](https://github.com/hojuna/melon_chart_insights/blob/master/src/melon_crawling.py)
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 3. 가사의 토큰화 (Installation)
+## 3. 가사의 토큰화 
 
 
 
