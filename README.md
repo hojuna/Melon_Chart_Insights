@@ -52,6 +52,10 @@ LDA의 결과 대로 나름대로 해석해 명칭을 지어보았습니다.
     "사랑의 끝과 소중함"   # Topic 4
 
 
+![gensim_lda_result](https://github.com/user-attachments/assets/8ccb9ca7-c3db-4eb7-84ea-01adf5043f32)
+
+
+
 [LDA 실행 코드](https://github.com/hojuna/melon_chart_insights/blob/master/notebooks/lda_analysis.ipynb)
 
 
